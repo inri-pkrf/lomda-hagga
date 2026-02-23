@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[1330],{1330(e,r,s){s.r(r),s.d(r,{default:()=>n});s(5043);var a=s(579);const n=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 3 - External Recruits"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 3 ExternalRecruits screen."})]})}}}]);
+//# sourceMappingURL=1330.c1fe01a3.chunk.js.map

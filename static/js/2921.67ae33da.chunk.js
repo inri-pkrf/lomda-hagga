@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2921],{2921(e,n,i){i.r(n),i.d(n,{default:()=>a});i(5043);var s=i(579);const a=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 4 - Routine To Emergency Question Time"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 4 QuestionTime screen."})]})}}}]);
+//# sourceMappingURL=2921.67ae33da.chunk.js.map

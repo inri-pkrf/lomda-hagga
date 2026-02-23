@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[570],{570(e,n,s){s.r(n),s.d(n,{default:()=>c});s(5043);var a=s(579);const c=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 2 - Defense Policy Part 1"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 2 SubOneDefensePolicy screen."})]})}}}]);
+//# sourceMappingURL=570.e43c9ae0.chunk.js.map

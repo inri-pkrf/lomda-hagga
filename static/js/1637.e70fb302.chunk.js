@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[1637],{1637(e,s,a){a.r(s),a.d(s,{default:()=>c});a(5043);var r=a(579);const c=function(){return(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Unit 2 - Safe Room Exercise"}),(0,r.jsx)("p",{children:"This is a placeholder for the Unit 2 SafeRoomExercise screen."})]})}}}]);
+//# sourceMappingURL=1637.e70fb302.chunk.js.map

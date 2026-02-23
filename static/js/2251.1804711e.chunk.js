@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2251],{2251(e,r,s){s.r(r),s.d(r,{default:()=>h});s(5043);var a=s(579);const h=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 2 - Alert"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 2 Alert screen."})]})}}}]);
+//# sourceMappingURL=2251.1804711e.chunk.js.map

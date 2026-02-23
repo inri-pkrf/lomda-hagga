@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[8901],{8901(e,a,n){n.r(a),n.d(a,{default:()=>h});n(5043);var s=n(579);const h=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 4 - Legal Situation Game"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 4 Sub3LegalGame screen."})]})}}}]);
+//# sourceMappingURL=8901.383054bb.chunk.js.map

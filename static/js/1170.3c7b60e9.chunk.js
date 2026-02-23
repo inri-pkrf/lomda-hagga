@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[1170],{1170(e,r,s){s.r(r),s.d(r,{default:()=>h});s(5043);var a=s(579);const h=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 2 - Fire"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 2 Fire screen."})]})}}}]);
+//# sourceMappingURL=1170.3c7b60e9.chunk.js.map

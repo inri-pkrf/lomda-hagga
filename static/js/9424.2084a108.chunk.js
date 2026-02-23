@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[9424],{9424(e,a,n){n.r(a),n.d(a,{default:()=>r});n(5043);var s=n(579);const r=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 1 - Emergency State"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 1 Emergency state screen."})]})}}}]);
+//# sourceMappingURL=9424.2084a108.chunk.js.map

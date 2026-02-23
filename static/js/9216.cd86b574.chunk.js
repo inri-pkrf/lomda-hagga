@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[9216],{9216(e,a,n){n.r(a),n.d(a,{default:()=>h});n(5043);var s=n(579);const h=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 4 - Legal Situation Part 2"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 4 Sub2Legal screen."})]})}}}]);
+//# sourceMappingURL=9216.cd86b574.chunk.js.map

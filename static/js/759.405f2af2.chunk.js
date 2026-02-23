@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[759],{759(e,t,a){a.r(t),a.d(t,{default:()=>s});a(5043);var n=a(579);const s=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Unit 1 - Routine State"}),(0,n.jsx)("p",{children:"This is a placeholder for the Unit 1 Routine state screen."})]})}}}]);
+//# sourceMappingURL=759.405f2af2.chunk.js.map

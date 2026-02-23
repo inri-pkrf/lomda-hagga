@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[5560],{5560(e,a,h){h.r(a),h.d(a,{default:()=>s});h(5043);var r=h(579);const s=function(){return(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Unit 2 - Earthquake"}),(0,r.jsx)("p",{children:"This is a placeholder for the Unit 2 Earthquake screen."})]})}}}]);
+//# sourceMappingURL=5560.58bfa415.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2011],{2011(e,i,s){s.r(i),s.d(i,{default:()=>h});s(5043);var a=s(579);const h=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 2 - Chemical Guidelines"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 2 GuidelinesChemical screen."})]})}}}]);
+//# sourceMappingURL=2011.e9ceb73a.chunk.js.map

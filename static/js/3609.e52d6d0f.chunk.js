@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[3609],{3609(e,r,a){a.r(r),a.d(r,{default:()=>i});a(5043);var h=a(579);const i=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 2 - Fire Behavior Indoors"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 2 FireBehaviorIn screen."})]})}}}]);
+//# sourceMappingURL=3609.e52d6d0f.chunk.js.map

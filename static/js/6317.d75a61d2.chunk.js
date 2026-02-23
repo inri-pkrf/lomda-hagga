@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[6317],{6317(e,a,c){c.r(a),c.d(a,{default:()=>s});c(5043);var r=c(579);const s=function(){return(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Unit 2 - Protected Space"}),(0,r.jsx)("p",{children:"This is a placeholder for the Unit 2 ProtectedSpace screen."})]})}}}]);
+//# sourceMappingURL=6317.d75a61d2.chunk.js.map

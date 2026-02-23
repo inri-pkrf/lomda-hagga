@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[4864],{4864(e,s,a){a.r(s),a.d(s,{default:()=>r});a(5043);var h=a(579);const r=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 1 - Summary Checklist"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 1 SummaryCheckList screen."})]})}}}]);
+//# sourceMappingURL=4864.5e90e5d3.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[458],{458(e,s,a){a.r(s),a.d(s,{default:()=>n});a(5043);var i=a(579);const n=function(){return(0,i.jsxs)("div",{children:[(0,i.jsx)("h2",{children:"Unit 2 - Wait 10 Minutes"}),(0,i.jsx)("p",{children:"This is a placeholder for the Unit 2 Wait10mins screen."})]})}}}]);
+//# sourceMappingURL=458.acad51d3.chunk.js.map

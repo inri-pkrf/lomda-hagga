@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[5260],{5260(e,n,i){i.r(n),i.d(n,{default:()=>s});i(5043);var a=i(579);const s=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 4 - Routine To Emergency Simulation"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 4 SimulationRTE screen."})]})}}}]);
+//# sourceMappingURL=5260.03d33b07.chunk.js.map

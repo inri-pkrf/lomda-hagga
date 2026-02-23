@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2384],{2384(e,n,r){r.r(n),r.d(n,{default:()=>a});r(5043);var s=r(579);const a=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 1 - Intro"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 1 introduction screen."})]})}}}]);
+//# sourceMappingURL=2384.55822993.chunk.js.map

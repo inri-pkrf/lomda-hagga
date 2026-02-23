@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[8713],{8713(e,n,a){a.r(n),a.d(n,{default:()=>s});a(5043);var r=a(579);const s=function(){return(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Unit 4 - Emergency Explanation"}),(0,r.jsx)("p",{children:"This is a placeholder for the Unit 4 ExplainEmergency screen."})]})}}}]);
+//# sourceMappingURL=8713.586bca2d.chunk.js.map

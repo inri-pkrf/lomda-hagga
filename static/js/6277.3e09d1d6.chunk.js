@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[6277],{6277(e,a,n){n.r(a),n.d(a,{default:()=>h});n(5043);var s=n(579);const h=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 1 - Population"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 1 Population screen."})]})}}}]);
+//# sourceMappingURL=6277.3e09d1d6.chunk.js.map

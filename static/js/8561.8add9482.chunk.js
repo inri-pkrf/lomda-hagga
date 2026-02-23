@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[8561],{8561(e,h,a){a.r(h),a.d(h,{default:()=>r});a(5043);var i=a(579);const r=function(){return(0,i.jsxs)("div",{children:[(0,i.jsx)("h2",{children:"Unit 2 - Right Behavior"}),(0,i.jsx)("p",{children:"This is a placeholder for the Unit 2 RightBehavior screen."})]})}}}]);
+//# sourceMappingURL=8561.8add9482.chunk.js.map

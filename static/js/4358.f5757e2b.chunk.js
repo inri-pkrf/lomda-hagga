@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[4358],{4358(e,n,r){r.r(n),r.d(n,{default:()=>a});r(5043);var s=r(579);const a=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 2 - Entry Time"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 2 SubEntryTime screen."})]})}}}]);
+//# sourceMappingURL=4358.f5757e2b.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[7673],{7673(e,s,a){a.r(s),a.d(s,{default:()=>r});a(5043);var h=a(579);const r=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 1 - Threats"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 1 Threats screen."})]})}}}]);
+//# sourceMappingURL=7673.d9036f15.chunk.js.map

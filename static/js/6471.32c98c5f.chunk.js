@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[6471],{6471(e,s,a){a.r(s),a.d(s,{default:()=>n});a(5043);var h=a(579);const n=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 3 - Human Checklist"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 3 HumanCheckList screen."})]})}}}]);
+//# sourceMappingURL=6471.32c98c5f.chunk.js.map

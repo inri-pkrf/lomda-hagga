@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[6828],{6828(n,e,a){a.r(e),a.d(e,{default:()=>s});a(5043);var i=a(579);const s=function(){return(0,i.jsxs)("div",{children:[(0,i.jsx)("h2",{children:"Unit 2 - Building Maintenance"}),(0,i.jsx)("p",{children:"This is a placeholder for the Unit 2 BuildingMaintenance screen."})]})}}}]);
+//# sourceMappingURL=6828.810692f6.chunk.js.map

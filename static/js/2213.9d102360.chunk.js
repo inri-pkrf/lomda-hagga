@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2213],{2213(e,s,a){a.r(s),a.d(s,{default:()=>n});a(5043);var h=a(579);const n=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 2 - Choosing Safe Room"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 2 ChoosingSafeRoom screen."})]})}}}]);
+//# sourceMappingURL=2213.9d102360.chunk.js.map

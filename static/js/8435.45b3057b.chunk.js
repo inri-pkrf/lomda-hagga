@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[8435],{8435(e,s,r){r.r(s),r.d(s,{default:()=>c});r(5043);var a=r(579);const c=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 3 - Resources"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 3 Resources screen."})]})}}}]);
+//# sourceMappingURL=8435.45b3057b.chunk.js.map

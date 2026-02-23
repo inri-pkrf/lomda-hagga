@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[9575],{9575(e,h,n){n.r(h),n.d(h,{default:()=>a});n(5043);var s=n(579);const a=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 4 - Phone"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 4 Phone screen."})]})}}}]);
+//# sourceMappingURL=9575.295ee473.chunk.js.map

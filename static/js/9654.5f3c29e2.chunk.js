@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[9654],{9654(e,a,h){h.r(a),h.d(a,{default:()=>s});h(5043);var n=h(579);const s=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Unit 2 - Chemical Info"}),(0,n.jsx)("p",{children:"This is a placeholder for the Unit 2 InfoChemical screen."})]})}}}]);
+//# sourceMappingURL=9654.5f3c29e2.chunk.js.map

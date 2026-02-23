@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2738],{2738(e,s,n){n.r(s),n.d(s,{default:()=>h});n(5043);var a=n(579);const h=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Unit 1 - Questions End"}),(0,a.jsx)("p",{children:"This is a placeholder for the Unit 1 QuestionsEnd screen."})]})}}}]);
+//# sourceMappingURL=2738.abff050d.chunk.js.map

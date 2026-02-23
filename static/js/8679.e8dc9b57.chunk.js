@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[8679],{8679(e,r,a){a.r(r),a.d(r,{default:()=>n});a(5043);var i=a(579);const n=function(){return(0,i.jsxs)("div",{children:[(0,i.jsx)("h2",{children:"Unit 2 - Fire Preparation"}),(0,i.jsx)("p",{children:"This is a placeholder for the Unit 2 PreparationFire screen."})]})}}}]);
+//# sourceMappingURL=8679.e8dc9b57.chunk.js.map

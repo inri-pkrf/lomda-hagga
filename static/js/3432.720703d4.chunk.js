@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[3432],{3432(e,n,s){s.r(n),s.d(n,{default:()=>a});s(5043);var t=s(579);const a=function(){return(0,t.jsxs)("div",{children:[(0,t.jsx)("h2",{children:"Unit 1 - Routine to Emergency"}),(0,t.jsx)("p",{children:"This is a placeholder for the Unit 1 RoutineEmergency state screen."})]})}}}]);
+//# sourceMappingURL=3432.720703d4.chunk.js.map

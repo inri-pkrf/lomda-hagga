@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2759],{2759(e,a,r){r.r(a),r.d(a,{default:()=>i});r(5043);var h=r(579);const i=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 2 - Chemical Preparation"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 2 PreparationChemical screen."})]})}}}]);
+//# sourceMappingURL=2759.3d87375f.chunk.js.map

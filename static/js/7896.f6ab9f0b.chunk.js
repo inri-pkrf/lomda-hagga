@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[7896],{7896(e,a,r){r.r(a),r.d(a,{default:()=>h});r(5043);var s=r(579);const h=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 2 - Earthquake Exercise"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 2 EarthquakeExercise screen."})]})}}}]);
+//# sourceMappingURL=7896.f6ab9f0b.chunk.js.map

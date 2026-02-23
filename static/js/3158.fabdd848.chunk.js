@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[3158],{3158(e,a,r){r.r(a),r.d(a,{default:()=>s});r(5043);var n=r(579);const s=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Unit 2 - Preparation"}),(0,n.jsx)("p",{children:"This is a placeholder for the Unit 2 Preparation screen."})]})}}}]);
+//# sourceMappingURL=3158.fabdd848.chunk.js.map

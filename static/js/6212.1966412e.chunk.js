@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[6212],{6212(e,s,i){i.r(s),i.d(s,{default:()=>a});i(5043);var n=i(579);const a=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Unit 3 - Question Six"}),(0,n.jsx)("p",{children:"This is a placeholder for the Unit 3 QuestionSix screen."})]})}}}]);
+//# sourceMappingURL=6212.1966412e.chunk.js.map

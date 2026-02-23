@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[4482],{4482(e,a,r){r.r(a),r.d(a,{default:()=>i});r(5043);var h=r(579);const i=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 2 - Earthquake Preparation Video"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 2 VideoPreperEarth screen."})]})}}}]);
+//# sourceMappingURL=4482.7305e59b.chunk.js.map

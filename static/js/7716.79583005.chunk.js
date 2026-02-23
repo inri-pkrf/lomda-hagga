@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[7716],{7716(e,s,i){i.r(s),i.d(s,{default:()=>t});i(5043);var n=i(579);const t=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Unit 2 - Equipment Outside"}),(0,n.jsx)("p",{children:"This is a placeholder for the Unit 2 EquipmentOutside screen."})]})}}}]);
+//# sourceMappingURL=7716.79583005.chunk.js.map

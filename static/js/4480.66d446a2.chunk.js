@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[4480],{4480(e,a,h){h.r(a),h.d(a,{default:()=>r});h(5043);var n=h(579);const r=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Unit 2 - Earthquake Info"}),(0,n.jsx)("p",{children:"This is a placeholder for the Unit 2 InfoEarthquake screen."})]})}}}]);
+//# sourceMappingURL=4480.66d446a2.chunk.js.map

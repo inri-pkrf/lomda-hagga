@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[2540],{2540(e,s,a){a.r(s),a.d(s,{default:()=>r});a(5043);var n=a(579);const r=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h2",{children:"Unit 1 - Interfaces"}),(0,n.jsx)("p",{children:"This is a placeholder for the Unit 1 Interfaces screen."})]})}}}]);
+//# sourceMappingURL=2540.005c801f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[6420],{6420(e,a,r){r.r(a),r.d(a,{default:()=>c});r(5043);var s=r(579);const c=function(){return(0,s.jsxs)("div",{children:[(0,s.jsx)("h2",{children:"Unit 3 - Factory File"}),(0,s.jsx)("p",{children:"This is a placeholder for the Unit 3 FactoryFile screen."})]})}}}]);
+//# sourceMappingURL=6420.98741ab8.chunk.js.map

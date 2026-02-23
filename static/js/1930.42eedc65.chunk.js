@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklomda_hagga=self.webpackChunklomda_hagga||[]).push([[1930],{1930(e,s,a){a.r(s),a.d(s,{default:()=>c});a(5043);var h=a(579);const c=function(){return(0,h.jsxs)("div",{children:[(0,h.jsx)("h2",{children:"Unit 2 - Chemical Causes"}),(0,h.jsx)("p",{children:"This is a placeholder for the Unit 2 CausesChemical screen."})]})}}}]);
+//# sourceMappingURL=1930.42eedc65.chunk.js.map
