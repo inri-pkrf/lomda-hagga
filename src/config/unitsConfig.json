@@ -1,0 +1,69 @@
+{
+  "units": [
+    {
+      "id": "unit1",
+      "slug": "unit-1",
+      "title": "Unit 1",
+      "description": "Foundations and introduction.",
+      "accentColor": "#145DA0",
+      "thumbnailKey": "UnitOneImgs/placeholder.png",
+      "steps": [
+        {
+          "serialId": "U1-INTRO",
+          "slug": "intro",
+          "componentPath": "Unit1/IntroUnitOne",
+          "label": "Intro"
+        }
+      ]
+    },
+    {
+      "id": "unit2",
+      "slug": "unit-2",
+      "title": "Unit 2",
+      "description": "Threats and preparedness.",
+      "accentColor": "#F18F01",
+      "thumbnailKey": "UnitTwoImgs/placeholder.png",
+      "steps": [
+        {
+          "serialId": "U2-INTRO",
+          "slug": "intro",
+          "componentPath": "Unit2/Explaining2",
+          "label": "Intro"
+        }
+      ]
+    },
+    {
+      "id": "unit3",
+      "slug": "unit-3",
+      "title": "Unit 3",
+      "description": "Factory files and emergency teams.",
+      "accentColor": "#4CAF50",
+      "thumbnailKey": "UnitThreeImgs/placeholder.png",
+      "steps": [
+        {
+          "serialId": "U3-INTRO",
+          "slug": "intro",
+          "componentPath": "Unit3/Explaining3",
+          "label": "Intro"
+        }
+      ]
+    },
+    {
+      "id": "unit4",
+      "slug": "unit-4",
+      "title": "Unit 4",
+      "description": "From routine to emergency.",
+      "accentColor": "#9C27B0",
+      "thumbnailKey": "UnitFourImgs/placeholder.png",
+      "steps": [
+        {
+          "serialId": "U4-INTRO",
+          "slug": "intro",
+          "componentPath": "Unit4/Explaining",
+          "label": "Intro"
+        }
+      ]
+    }
+  ]
+}
+
